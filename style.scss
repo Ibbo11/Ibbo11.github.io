@@ -22,8 +22,17 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
 th, td {
     border-bottom: 1px solid #ddd;
+}
+
 }
 .container {
   margin: 0 auto;
