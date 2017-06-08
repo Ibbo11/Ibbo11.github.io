@@ -22,7 +22,9 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+th, td {
+    border-bottom: 1px solid #ddd;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
