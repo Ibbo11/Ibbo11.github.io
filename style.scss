@@ -25,9 +25,12 @@ body {
 
 table {
     width: 150%;
+    th, td {
+	padding: 15px;
+	text-align: left;
 }
 
-.container {
+	.container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
